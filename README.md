@@ -25,9 +25,9 @@ The script avoids high-level "black-box" toolbox functions where possible, imple
 The script generates comprehensive visual diagnostics of the DSP chain. Below are examples of the received signal and the successfully equalized 16-QAM constellation.
 
 ### Baseband Spectrum (Rx Antenna 1)
-![Rx1 Spectrum](Signal.png)
+![Rx1 Spectrum](Signal.png)   
 *Received OFDM signal with AWGN.*
 
 ### Equalized Spatial Multiplexing Constellation
-![16-QAM Constellation](Constellation.png)
+![16-QAM Constellation](Constellation.png)   
 *Recovered 16-QAM symbols after V-BLAST equalization and CFO correction at SNR = 15dB.*
