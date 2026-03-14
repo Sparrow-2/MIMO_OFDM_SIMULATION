@@ -29,5 +29,5 @@ The script generates comprehensive visual diagnostics of the DSP chain. Below ar
 *Received OFDM signal with AWGN.*
 
 ### Equalized Spatial Multiplexing Constellation
-![16-QAM Constellation](constellation.png)
+![16-QAM Constellation](Constellation.png)
 *Recovered 16-QAM symbols after V-BLAST equalization and CFO correction at SNR = 15dB.*
